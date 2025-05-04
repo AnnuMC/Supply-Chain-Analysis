@@ -24,7 +24,8 @@ Supplier dashboard suggests Supplier1 supplied the highest no of  products and e
 
 From Manufacturing dashboard it is evident that only 23% of manufactured products passed the quality inspection on first test. Cost of maufacturing is above 90 for around 10+ products while there dependency with lead time is not that correlated.Highest production volume is for SKU76 and product with highest defect rate is SKU42
 
-Logistics dashboard depicts the no of products, cost and shipping time of differnt carriers, modes and routes
+Logistics dashboard depicts the no of products, cost and shipping time of differnt carriers, modes and routes.
+
 Sales dashboard provides correlation between top sold products and revenue,top priced products and revenue, top cost product and revenue.
 Skincare products generates the maximum revenue followed by haircare and cosmetics
 
