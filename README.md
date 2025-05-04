@@ -1,5 +1,5 @@
 
-## Optimizing Beauty: A Data-Driven Supply Chain Performance Dashboard
+## Optimizing Beauty: A Data-Driven Supply Chain Performance Report
 
 ##  Objective
 Creating a comprehensive report for a supply chain management team, enabling them to identify potential issues, analyze product performance, and optimize logistics operations. The report should empower the team to make data-driven decisions regarding inventory, supplier performance, and shipping strategies.
@@ -16,7 +16,7 @@ https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/onyx-data
 #### Visualisation
 This report was designed to break down the supply chain process into actionable stages, ensuring a comprehensive understanding of key performance metrics. The report comprises of 5 dashboards, where 4 of them focusses on stages like Inventory Management, Production, Logistics and After Sales.
 Summary Dashboard highlights the key insights on comparing the different product categories.
-Visual Element like KPI cards, Bar graphs, line graphs, pie charts, Matrices and Bookmarks are used. Page Navigation and cross report filtering adds interactivity to the visuals.
+Visual element like KPI cards, bar graphs, line graphs, pie charts, matrices, filters and bookmarks are used. Page navigation and cross report filtering adds interactivity to the visuals.
 
 
 ##  Key Findings
@@ -27,24 +27,24 @@ From Manufacturing dashboard it is evident that only 23% of manufactured product
 Logistics dashboard depicts the no of products, cost and shipping time of differnt carriers, modes and routes.
 
 Sales dashboard provides correlation between top sold products and revenue,top priced products and revenue, top cost product and revenue.
-Skincare products generates the maximum revenue followed by haircare and cosmetics
+Skincare products generates the maximum revenue followed by haircare and cosmetics.
 
 
 ##  Recommendations
 
-* Engage with underperforming suppliers to improve delivery reliability
-* Rebalance inventory distribution to reduce stockouts in high-turnover regions
+* Engage with underperforming suppliers to improve delivery reliability.
+* Rebalance inventory distribution to reduce stockouts in high-turnover regions.
 * Minimise defect rate per product and increase product pass rate in Quality Inspection.
-* Implement automated alerts for delayed shipments
+* Implement automated alerts for delayed shipments.
 * Choose carrier, mode and routes with less lead time and minimum cost.
 
 
 
 ##  Next Steps
 
-* Incorporate predictive analytics to forecast delays
-* Add financial impact analysis on late deliveries and stockouts
-* Expand dashboard to include customer satisfaction metrics
+* Incorporate predictive analytics to forecast delays.
+* Add financial impact analysis on late deliveries and stockouts.
+* Expand dashboard to include customer satisfaction metrics.
 
 
 ##  Visual Examples
