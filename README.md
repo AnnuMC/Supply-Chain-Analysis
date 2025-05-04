@@ -1,26 +1,26 @@
 
-## 1. Project Title 
-Optimizing Beauty: A Data-Driven Supply Chain Performance Dashboard
+##  Project Title 
+### Optimizing Beauty: A Data-Driven Supply Chain Performance Dashboard
 
-## 2. Objective
+##  Objective
 Creating a comprehensive report for a supply chain management team, enabling them to identify potential issues, analyze product performance, and optimize logistics operations. The report should empower the team to make data-driven decisions regarding inventory, supplier performance, and shipping strategies.
 
-## 3. Data Sources
+##  Data Sources
 https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/onyx-data-november-2024
 
 
-## 4. Tools & Technologies Used
-Power BI
+##  Tools & Technologies Used
+#### Power BI
 
-## 5. Project Workflow 
+##  Project Workflow 
 
-### Visualisation
+#### Visualisation
 This report was designed to break down the supply chain process into actionable stages, ensuring a comprehensive understanding of key performance metrics. The report comprises of 5 dashboards, where 4 of them focusses on stages like Inventory Management, Production, Logistics and After Sales.
 Summary Dashboard highlights the key insights on comparing the different product categories.
 Visual Element like KPI cards, Bar graphs, line graphs, pie charts, Matrices and Bookmarks are used. Page Navigation and cross report filtering adds interactivity to the visuals.
 
 
-## 6. Key Findings
+##  Key Findings
 KPI  Profit 
 
 Supplier => most SKU supplied, most order quantity supplied , lead time, stock level  
@@ -29,7 +29,7 @@ Logistics => depicting the no of products, cost and shipping time of differnt ca
 Sales => correlation between top sold products and revenue,top priced products and revenue, top cost product and revenue, top skus generated revenue
 
 
-## 7. Recommendations
+##  Recommendations
 
 * Engage with underperforming suppliers to improve delivery reliability
 * Rebalance inventory distribution to reduce stockouts in high-turnover regions
@@ -39,16 +39,16 @@ Sales => correlation between top sold products and revenue,top priced products a
 
 
 
-## 8. Next Steps
+##  Next Steps
 
 * Incorporate predictive analytics to forecast delays
 * Add financial impact analysis on late deliveries and stockouts
 * Expand dashboard to include customer satisfaction metrics
 
 
-## 9. Visual Examples
+##  Visual Examples
 
-## 10. How to Run the Project
+##  How to Run the Project
 
 1. Using GitHub Desktop and Power BI Desktop:
 Clone the Repository-
