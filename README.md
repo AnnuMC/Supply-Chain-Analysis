@@ -47,6 +47,8 @@ Sales => correlation between top sold products and revenue,top priced products a
 
 
 ##  Visual Examples
+![image](https://github.com/user-attachments/assets/b1636caa-6358-4850-a044-5269440288a8)
+
 
 ##  How to Run the Project
 
