@@ -20,12 +20,13 @@ Visual Element like KPI cards, Bar graphs, line graphs, pie charts, Matrices and
 
 
 ##  Key Findings
-KPI  Profit 
+Supplier dashboard suggests Supplier1 supplied the highest no of  products and even highest no of distinct SKU and thus contributing to highest revenue.Lead time for this supplier is high so that enough quantity should be stocked. Stock levels for products from supplier3 will soon be running out of stock but the lead time from them is low.
 
-Supplier => most SKU supplied, most order quantity supplied , lead time, stock level  
-Manufacturing => pass % ,sku with max manufacturing cost, sku with max prod vol, sku with max defect rate
-Logistics => depicting the no of products, cost and shipping time of differnt carriers, modes and routes
-Sales => correlation between top sold products and revenue,top priced products and revenue, top cost product and revenue, top skus generated revenue
+From Manufacturing dashboard it is evident that only 23% of manufactured products passed the quality inspection on first test. Cost of maufacturing is above 90 for around 10+ products while there dependency with lead time is not that correlated.Highest production volume is for SKU76 and product with highest defect rate is SKU42
+
+Logistics dashboard depicts the no of products, cost and shipping time of differnt carriers, modes and routes
+Sales dashboard provides correlation between top sold products and revenue,top priced products and revenue, top cost product and revenue.
+Skincare products generates the maximum revenue followed by haircare and cosmetics
 
 
 ##  Recommendations
