@@ -1,6 +1,5 @@
 
-##  Project Title 
-### Optimizing Beauty: A Data-Driven Supply Chain Performance Dashboard
+## Optimizing Beauty: A Data-Driven Supply Chain Performance Dashboard
 
 ##  Objective
 Creating a comprehensive report for a supply chain management team, enabling them to identify potential issues, analyze product performance, and optimize logistics operations. The report should empower the team to make data-driven decisions regarding inventory, supplier performance, and shipping strategies.
