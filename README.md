@@ -11,6 +11,8 @@ https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/onyx-data
 ##  Tools & Technologies Used
 #### Power BI
 
+## Key Metrics & KPIs
+
 ##  Project Workflow 
 
 #### Visualisation
