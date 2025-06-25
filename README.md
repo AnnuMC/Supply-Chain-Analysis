@@ -13,12 +13,12 @@ https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/onyx-data
 
 ## Key Metrics & KPIs
 
-#### Net Profit = Total Revenue - Total Expenses  =  524.7k
-#### Net Profit Margin = (Net Profit  / Revenue) * 100  =  90.8 %
-#### Average Cycle time = 14.7 Days
-#### On-Time Delivery rate =(no of on time delivey / total delivery ) * 100 = 50%
-#### Inventory Turnover Ratio = Cost of Goods Sold / Avg Inventory value = 52.9k / 4881 = 10.6
-#### Average Supplier lead time = 15.96 Days
+###### Net Profit = Total Revenue - Total Expenses  =  524.7k
+###### Net Profit Margin = (Net Profit  / Revenue) * 100  =  90.8 %
+###### Average Cycle time = 14.7 Days
+###### On-Time Delivery rate =(no of on time delivey / total delivery ) * 100 = 50%
+###### Inventory Turnover Ratio = Cost of Goods Sold / Avg Inventory value = 52.9k / 4881 = 10.6
+###### Average Supplier lead time = 15.96 Days
 
 ##  Project Workflow 
 
